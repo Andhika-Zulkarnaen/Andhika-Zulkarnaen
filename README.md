@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andhika-Z
-- 👀 I’m interested in Game Developer, Data Scientist and Analyst
+- 👀 I’m interested in Game Developer, AI Engineer
 - 🌱 I’m currently learning Phyton, C#, Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zulkarnaenandhika@gmail.com
